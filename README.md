@@ -62,7 +62,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/your-username/GTACC](https://github.com/your-username/GTACC)
+Project Link: [https://github.com/dhruvvaz/GTACC](https://github.com/your-username/GTACC)
 
